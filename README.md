@@ -20,5 +20,5 @@
 
 Want to chat about web dev, front-end magic, or just geek out over cool tech? Feel free to reach out!
 
-💬 [Instagram](https://www.instagram.com/itsvalyria/) - Drop me a DM! <br>
+💬 [Instagram](https://www.instagram.com/itsvalyria/) — Drop me a DM! <br>
 📂 Feel free to check out my repos and projects below!
